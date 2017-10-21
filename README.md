@@ -1,4 +1,4 @@
-# trend-r-from-SO
+# trend-python-from-SO
 ![term_occurrences.png](/term_occurrences.png)
 
 | term          |   occurrences |
@@ -213,4 +213,3 @@
 
 
 
-# trend-python-from-SO
