@@ -104,7 +104,9 @@
 | behave        |          1707 |
 | pillow        |          1695 |
 
+
 ![term_weight.png](/term_weight.png)
+
 
 |---------------|-------------|
 | into          | 0.088689    |
