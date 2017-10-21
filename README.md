@@ -107,7 +107,7 @@
 
 ![term_weight.png](/term_weight.png)
 
-
+| term          |     weight  |
 |---------------|-------------|
 | into          | 0.088689    |
 | django        | 0.0553108   |
